@@ -1,4 +1,4 @@
-COMP1023 DevOps Artifact
+COMP1023 Artifact
 
 
 
@@ -8,3 +8,4 @@ COMP1023 DevOps Artifact
 
 
 Milestone 1 update by <LOVISH GUPTA>
+DevOps
